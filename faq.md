@@ -46,3 +46,6 @@ Run the code below to check if authentication is working. If you see a long stri
 from qc_grader.api import get_access_token
 get_access_token()
 ```
+
+#### Will I receive a badge and what are the qualifications?
+You will receive the IBM Quantum Challenge Africa 2021 Achievement digital badge for participating in the IBM Quantum Challenge Africa 2021 and successfully completing all three of the Labs by the deadline of 20 Sept, midnight UTC. More details will be shared once the challenge has completed. 
