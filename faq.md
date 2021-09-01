@@ -26,6 +26,10 @@ No, you can run all exercises on the [challenge portal](http://ibm.co/ibmQuantum
 
 We encourage you complete the exercises in the given order as this is the intended structure for the challenge. However, you may complete labs 2 and 3 in any order as they are independent. The first lab introduces you to quantum computing at an applications level, and thus it is suggested that you complete lab 1 first.
 
+#### Do I need an IBMid associated with my IBM Quantum Account?
+
+Yes, you'll need an IBMid associated with your IBM Quantum account in order to complete some of the Labs. If you don't already have one, please [register a new IBMid](https://auth.quantum-computing.ibm.com/auth/idaas) using the SAME email address associated with your IBM Quantum account. If you have any questions or face any issues, please let us know in the [#challenge-africa-2021](https://qiskit.slack.com/archives/C02C8MKP153) Slack channel.
+
 #### I encountered “Server error”. What should I do?
 
 We have a lot of participants at the moment. Please be patient, wait and try again.
@@ -49,3 +53,7 @@ get_access_token()
 
 #### Will I receive a badge and what are the qualifications?
 You will receive the IBM Quantum Challenge Africa 2021 Achievement digital badge for participating in the IBM Quantum Challenge Africa 2021 and successfully completing all three of the Labs by the deadline of 20 Sept, midnight UTC. More details will be shared once the challenge has completed. 
+
+#### Still have more questions?
+
+Please let us know if you have any additional questions in the [#challenge-africa-2021](https://qiskit.slack.com/archives/C02C8MKP153) in the [Qiskit Slack](https://ibm.co/joinqiskitslack) workspace. 
