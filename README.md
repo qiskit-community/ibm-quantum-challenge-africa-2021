@@ -10,4 +10,6 @@ Make sure to join the dedicated Slack channel **[#challenge-africa-2021](https:/
 <br><br>
 # [Guidelines for Participation](https://github.com/qiskit-community/ibm-quantum-challenge-africa-2021/blob/main/guidelines-for-participants.md)
 
+# [Preliminary Content](https://github.com/qiskit-community/ibm-quantum-challenge-africa-2021/blob/main/preliminary_content.md)
+
 # [FAQ](https://github.com/qiskit-community/ibm-quantum-challenge-africa-2021/blob/main/faq.md)
