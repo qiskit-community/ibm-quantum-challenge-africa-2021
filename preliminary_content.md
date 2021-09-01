@@ -13,7 +13,7 @@ Most quantum computing algorithms require an understanding of linear algebra to 
 
 Qiskit, and thus the challenge, is implemented in Python. If you’re not familiar with Python, you can learn how the basics from the Qiskit Textbook chapter on [Python and Jupyter Notebooks](https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html). Jupyter notebooks are an interactive way to program and are the most common method for communicating Qiskit work. All exercises for the challenge are provided as Jupyter Notebooks on the IBM Quantum platform. To access the platform, you should create an account using the links provided in the section below.
 
-__IBM Quantum Account__
+## IBM Quantum Account
 
 Make sure you have registered on the [IBM Quantum platform](http://quantum-computing.ibm.com/) as it hosts the challenge notebooks and exercises. You can register an account [here](https://auth.quantum-computing.ibm.com/auth/idaas?redirectTo=https%3A%2F%2Fquantum-computing.ibm.com%2F). You will be using the IBM Quantum Lab, which hosts Jupyter Notebooks for you. If you are not familiar with Jupyter or the IBM Quantum Lab, you can read the [Quantum Lab Guide](https://quantum-computing.ibm.com/lab/docs/iql/#qlab) for more information on how it is structured and what features are available.
 
