@@ -4,7 +4,7 @@ In preparation for the first week of the challenge, you should make yourself fam
 
 ## Linear Algebra
 
-Most quantum computing algorithms require an understanding of linear algebra to formulate the problem. However, you need not be an expert on the topic to complete the Qiskit Challenge Africa. Here are two resources that can help you learn or brush-up on the foundations of linear algebra and matrices.
+Most quantum computing algorithms require an understanding of linear algebra to formulate the problem. However, you need not be an expert on the topic to complete the IBM Quantum Challenge Africa. Here are two resources that can help you learn or brush-up on the foundations of linear algebra and matrices.
 
 - [Khan Academy: Precalculus > Matrices](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/v/matrix-multiplication-intro)
 - [Qiskit Textbook: Linear Algebra Chapter](https://qiskit.org/textbook/ch-appendix/linear_algebra.html)
@@ -12,10 +12,12 @@ Most quantum computing algorithms require an understanding of linear algebra to 
 ## Python Crash Course
 
 Qiskit, and thus the challenge, is implemented in Python. If you’re not familiar with Python, you can learn how the basics from the Qiskit Textbook chapter on [Python and Jupyter Notebooks](https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html). Jupyter notebooks are an interactive way to program and are the most common method for communicating Qiskit work. All exercises for the challenge are provided as Jupyter Notebooks on the IBM Quantum platform. To access the platform, you should create an account using the links provided in the section below.
-IBM Quantum Account
+
+__IBM Quantum Account__
+
 Make sure you have registered on the [IBM Quantum platform](http://quantum-computing.ibm.com/) as it hosts the challenge notebooks and exercises. You can register an account [here](https://auth.quantum-computing.ibm.com/auth/idaas?redirectTo=https%3A%2F%2Fquantum-computing.ibm.com%2F). You will be using the IBM Quantum Lab, which hosts Jupyter Notebooks for you. If you are not familiar with Jupyter or the IBM Quantum Lab, you can read the [Quantum Lab Guide](https://quantum-computing.ibm.com/lab/docs/iql/#qlab) for more information on how it is structured and what features are available.
 
-## Working on the labs locally
+## Working on the Labs locally
 
 If you struggle to maintain a stable internet connection to the IBM Quantum Challenge platform, you can download the notebooks from this repo. Note that the lab notebooks will only be available from the start of the challenge (9 September @ 07:00 UTC).
 
