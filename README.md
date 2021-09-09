@@ -8,7 +8,7 @@ The challenge will take place from 9 September (7am UTC) to 20 September (11pm U
 
 Make sure to join the dedicated Slack channel **[#challenge-africa-2021](https://ibm.co/Africa_Slack)** where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace **[here](https://ibm.co/joinqiskitslack)** if you haven't already.
 <br><br>
-# [Event Code of Conduct](https://github.com/qiskit-community/ibm-quantum-challenge-africa-2021/blob/main/code-of-conduct-for-participants.md)
+# [Event Code of Conduct](https://github.com/qiskit-community/ibm-quantum-challenge-africa-2021/blob/main/code%20of%20conduct-for-participants.md)
 
 # [Preliminary Content](https://github.com/qiskit-community/ibm-quantum-challenge-africa-2021/blob/main/preliminary_content.md)
 
