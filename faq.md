@@ -75,3 +75,7 @@ This error may occur if you have two accounts and one is logging in automaticall
 ## Why am I seeing the error "Failed: Gateway Time-out"?
 
 To resolve this issue, try restarting your Python kernel by pressing the refresh icon at the top of the Jupyter notebook/IBM Quantum Lab interface. However, keep in-mind that this will reset all of your Python variables, so you will have to re-run your notebook code cells. If this does not resolve the issue, ping @africa_mentor or @africa_admin in the challenge Slack channel: [#challenge-africa-2021](https://qiskit.slack.com/archives/C02C8MKP153).
+
+## Why am I seeing "Error 524" when I load the IBM Quantum Lab?
+
+The IBM Quantum Lab and IBM Quantum Challenge Africa 2021 teams may need to update the platform at certain points during the challenge. If you encounter this error, you should wait about 5-10 minutes before trying again. By that stage, the server should have successfully updated.
