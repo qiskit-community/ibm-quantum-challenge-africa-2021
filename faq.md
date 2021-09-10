@@ -61,3 +61,5 @@ We hosted a live Q&A prior to the challenge start with a panel consisting of con
 #### Still have more questions?
 
 Please let us know if you have any additional questions in the [#challenge-africa-2021](https://qiskit.slack.com/archives/C02C8MKP153) in the [Qiskit Slack](https://ibm.co/joinqiskitslack) workspace. 
+
+## IBM Quantum Lab
