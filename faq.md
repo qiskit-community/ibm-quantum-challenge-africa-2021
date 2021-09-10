@@ -79,3 +79,7 @@ To resolve this issue, try restarting your Python kernel by pressing the refresh
 ## Why am I seeing "Error 524" when I load the IBM Quantum Lab?
 
 The IBM Quantum Lab and IBM Quantum Challenge Africa 2021 teams may need to update the platform at certain points during the challenge. If you encounter this error, you should wait about 5-10 minutes before trying again. By that stage, the server should have successfully updated.
+
+## Why am I seeing "File Save Error for lab-xxxx, Invalid Response: 403"?
+
+Try logging out and back in on the IBM Quantum platform and the challenge website. This should resolve this issue.
