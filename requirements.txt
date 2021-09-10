@@ -1,0 +1,13 @@
+pyscf==1.7.3
+qiskit==0.29.0
+qiskit-aer==0.8.2
+qiskit-aqua==0.9.4
+qiskit-experiments==0.1.0
+qiskit-finance==0.2.0
+qiskit-ibmq-provider==0.16.0
+qiskit-ignis==0.6.0
+qiskit-machine-learning==0.2.0
+qiskit-nature==0.1.5
+qiskit-optimization==0.2.1
+qiskit-terra==0.18.1
+qc-grader @ git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git@c88387517f7b2c1602d3b551c34c4a3e78b91eca
