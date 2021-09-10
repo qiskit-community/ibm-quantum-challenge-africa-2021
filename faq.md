@@ -64,7 +64,7 @@ Please let us know if you have any additional questions in the [#challenge-afric
 
 ## IBM Quantum Lab
 
-### Why am I seeing the error "Failed: 401 Client Error: Unauthorized for URL"
+### Why am I seeing the error "Failed: 401 Client Error: Unauthorized for URL"?
 
 The challenge platform requires that you are logged in with a full IBMid, and not a social-media account like GitHub. If you are not using an IBMid to login, please register an account **using the same email you registered with.** This should resolve the above error.
 
