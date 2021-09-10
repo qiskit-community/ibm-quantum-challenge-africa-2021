@@ -71,3 +71,7 @@ The challenge platform requires that you are logged in with a full IBMid, and no
 ## Why am I seeing the error "Your request cannot be processed. The System cannot process your request."?
 
 This error may occur if you have two accounts and one is logging in automatically. To resolve this, navigate to [ibm.com](https://ibm.com), disable auto login, logout, close all IBM tabs except one, and re-login to the challenge website.
+
+## Why am I seeing the error "Failed: Gateway Time-out"?
+
+To resolve this issue, try restarting your Python kernel by pressing the refresh icon at the top of the Jupyter notebook/IBM Quantum Lab interface. However, keep in-mind that this will reset all of your Python variables, so you will have to re-run your notebook code cells. If this does not resolve the issue, ping @africa_mentor or @africa_admin in the challenge Slack channel: [#challenge-africa-2021](https://qiskit.slack.com/archives/C02C8MKP153).
