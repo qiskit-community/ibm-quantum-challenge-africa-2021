@@ -68,6 +68,6 @@ Please let us know if you have any additional questions in the [#challenge-afric
 
 The challenge platform requires that you are logged in with a full IBMid, and not a social-media account like GitHub. If you are not using an IBMid to login, please register an account **using the same email you registered with.** This should resolve the above error.
 
-## Why am I seeing the error "Your request cannot be processed. The System cannot process your request."
+## Why am I seeing the error "Your request cannot be processed. The System cannot process your request."?
 
 This error may occur if you have two accounts and one is logging in automatically. To resolve this, navigate to [ibm.com](https://ibm.com), disable auto login, logout, close all IBM tabs except one, and re-login to the challenge website.
