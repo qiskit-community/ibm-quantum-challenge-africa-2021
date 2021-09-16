@@ -52,7 +52,7 @@ get_access_token()
 ```
 
 #### Will I receive a badge and what are the qualifications?
-You will receive the IBM Quantum Challenge Africa 2021 Achievement digital badge for participating in the IBM Quantum Challenge Africa 2021 and successfully completing all three of the Labs by the deadline of 20 Sept, midnight UTC. More details will be shared once the challenge has completed. 
+You will receive the IBM Quantum Challenge Africa 2021 Achievement digital badge for participating in the IBM Quantum Challenge Africa 2021 and successfully completing all three of the Labs by the deadline of 20 Sept, 23:00 UTC. More details will be shared once the challenge has completed. 
 
 #### Replay of Live Q&A
 
