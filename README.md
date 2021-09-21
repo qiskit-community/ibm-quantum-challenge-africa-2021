@@ -1,4 +1,8 @@
-# IBM Quantum Challenge Africa 2021
+# IBM Quantum Challenge Africa 2021 Pedagogically Improved Branch
+
+Let's improve the original challenge!
+
+Original:
 
 To ensure Africa is able to apply quantum computing to solve problems relevant to the continent, the IBM Research Lab in South Africa and the University of the Witwatersrand have developed a quantum computing challenge that focuses on the fields of optimization, finance, and chemistry. This challenge will boost participant's quantum computing skills and give them the tools to devise the best solutions to real-world issues faced in Africa.
 
